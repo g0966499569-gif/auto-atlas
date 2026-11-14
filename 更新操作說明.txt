@@ -1,0 +1,8 @@
+更新原GitHub Pages：
+1. 解壓縮ZIP。
+2. 到原repository > Code > Add file > Upload files。
+3. 覆蓋上傳 index.html、catalog.json、manifest.webmanifest、sw.js、icon.svg。
+4. Commit changes，等待Pages部署完成。
+5. 電腦若仍是舊版：F12 > Application > Service Workers > Unregister，再到Storage > Clear site data。
+Android：Chrome開網址 > 三點 > 安裝應用程式。
+iPhone：Safari開網址 > 分享 > 加入主畫面。

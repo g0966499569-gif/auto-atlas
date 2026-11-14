@@ -1,1 +1,1 @@
-{"name": "Auto Atlas 全車系圖鑑", "short_name": "全車系圖鑑", "start_url": "./", "display": "standalone", "background_color": "#09090b", "theme_color": "#111111", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
+{"name": "Auto Atlas Lite 車系索引", "short_name": "車系索引", "start_url": "./", "display": "standalone", "background_color": "#08090b", "theme_color": "#111111", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
