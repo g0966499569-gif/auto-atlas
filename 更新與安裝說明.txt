@@ -1,0 +1,12 @@
+更新既有 GitHub Pages：
+1. 解壓縮此 ZIP。
+2. 到 GitHub repository 的 Code 頁面。
+3. Add file > Upload files。
+4. 上傳並覆蓋 index.html、cars.json、manifest.webmanifest、sw.js、icon.svg。
+5. Commit changes。Settings > Pages 不用重新設定。
+6. 等約1-5分鐘，再開原本網址。若仍是舊版：Chrome > 網站設定 > 清除與重設，再重開；或移除桌面App後重新安裝。
+
+Android：Chrome開網址 > 右上角三點 > 安裝應用程式。
+iPhone：Safari開網址 > 分享 > 加入主畫面。
+
+注意：要將「所有車、全部年份版本、完整性能與即時價格」做準，需匯入授權商用資料庫。App內「匯入專業資料」提供JSON範本。
