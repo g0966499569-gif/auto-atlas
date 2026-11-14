@@ -1,0 +1,1 @@
+上傳並覆蓋 index.html、catalog.json、manifest.webmanifest、sw.js 到原GitHub repository，Commit後等待Pages完成。若仍舊版：F12 > Application > Service Workers > Unregister，再到Storage > Clear site data。
