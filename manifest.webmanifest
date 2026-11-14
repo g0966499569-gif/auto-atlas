@@ -1,1 +1,1 @@
-{"name": "Auto Atlas V2", "short_name": "Auto Atlas", "start_url": "./", "display": "standalone", "theme_color": "#111111"}
+{"name":"Auto Atlas 完整車款圖鑑","short_name":"Auto Atlas","description":"41 個品牌的車系、世代、型號與規格圖鑑","start_url":"./","scope":"./","display":"standalone","background_color":"#000000","theme_color":"#0a84ff","orientation":"any","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
