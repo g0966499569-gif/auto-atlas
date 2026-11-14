@@ -1,0 +1,9 @@
+Android 安裝操作：
+1. 解壓縮本套件。
+2. GitHub 建立 public repository，將 index.html、cars.json、manifest.webmanifest、sw.js、icon.svg 全部上傳到根目錄。
+3. Repository Settings > Pages > Source 選 Deploy from a branch > main / root > Save。
+4. 等待約 1-5 分鐘，開啟 GitHub Pages 顯示的 https 網址。
+5. Android Chrome 開啟網址，按「安裝到 Android」；若按鈕未出現，點右上角三點 > 安裝應用程式/新增至主畫面。
+6. App 內先點品牌，再點下方車系家族，之後可輸入名稱或代號篩選。點車卡可看大圖。
+
+照片第一次載入需網路。Wikimedia 搜尋偶爾可能抓到賽車、模型車或相近世代，可按「查看更多角度圖片」交叉確認。
